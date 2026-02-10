@@ -26,8 +26,8 @@ class _SplashHeaderViewState extends ConsumerState<SplashHeaderView> {
   void initState() {
     super.initState();
 
-    // Delay then navigate
-    Future.delayed(Duration(seconds: widget.length), () {
+    // Navigate immediately — no artificial delay
+    Future.delayed(Duration.zero, () {
       if (!mounted) return;
 
       final target = widget.target ?? 'menu'; // default to menu if null
