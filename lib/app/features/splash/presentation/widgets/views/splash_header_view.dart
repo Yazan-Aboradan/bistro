@@ -14,7 +14,7 @@ class SplashHeaderView extends ConsumerStatefulWidget {
   const SplashHeaderView({
     super.key,
     required this.length,
-     this.target,
+    this.target,
   });
 
   @override
