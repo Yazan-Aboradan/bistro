@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Your existing app theme -->
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- Use default background color -->
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+
+    <!-- Transparent launch theme to remove splash and background -->
+    <style name="TransparentLaunchTheme" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+</resources>
