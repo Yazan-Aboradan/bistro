@@ -3,7 +3,10 @@
 
 _flutter.loader.load({
     onEntrypointLoaded: async function (engineInitializer) {
-        const appRunner = await engineInitializer.initializeEngine();
+        const appRunner = await engineInitializer.initializeEngine({
+            // Use HTML renderer — no CanvasKit needed, much faster first load
+            renderer: "html",
+        });
         await appRunner.runApp();
 
         // Flutter has rendered — fade out and remove the native splash
