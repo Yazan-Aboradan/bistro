@@ -18,8 +18,7 @@ import 'package:bistro/app/features/auth/presentation/register/auth_register_pri
     deferred as privacy_page;
 import 'package:bistro/app/features/auth/presentation/login/auth_login_page.dart'
     deferred as login_page;
-import 'package:bistro/app/features/main/main_page.dart'
-    deferred as main_page;
+import 'package:bistro/app/features/main/main_page.dart' deferred as main_page;
 import 'package:bistro/app/features/main/main_wifi_page.dart'
     deferred as wifi_page;
 import 'package:bistro/app/features/products/presentation/products_page.dart'

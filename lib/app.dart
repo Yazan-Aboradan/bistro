@@ -13,8 +13,10 @@ class App extends ConsumerWidget {
   });
 
   @override
-  Widget build(BuildContext context,
-      WidgetRef ref,) {
+  Widget build(
+    BuildContext context,
+    WidgetRef ref,
+  ) {
     final locale = ref.watch(
       localeProvider,
     );
@@ -41,8 +43,10 @@ class App extends ConsumerWidget {
       locale: locale,
       theme: ThemeData(
           fontFamily: locale.languageCode == 'ar' ? 'Cairo' : 'Montserrat',
-          fontFamilyFallback: const ['Cairo', 'Montserrat',]
-      ),
+          fontFamilyFallback: const [
+            'Cairo',
+            'Montserrat',
+          ]),
       debugShowCheckedModeBanner: false,
       //Routing
       routerConfig: goRouter,
@@ -54,8 +58,7 @@ class App extends ConsumerWidget {
 
 class NoGlowScrollBehavior extends MaterialScrollBehavior {
   @override
-  Set<PointerDeviceKind> get dragDevices =>
-      {
+  Set<PointerDeviceKind> get dragDevices => {
         PointerDeviceKind.touch,
         PointerDeviceKind.mouse,
         PointerDeviceKind.trackpad,

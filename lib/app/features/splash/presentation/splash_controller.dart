@@ -9,7 +9,7 @@ class SplashController {
 
   SplashController(this.ref);
 
-  Future<void> handleSplashDelay(BuildContext context,int length) async {
+  Future<void> handleSplashDelay(BuildContext context, int length) async {
     // Navigate on next frame — no artificial delay for web
     await Future.delayed(Duration.zero);
 
