@@ -26,7 +26,7 @@ class App extends ConsumerWidget {
       builder: (context, child) {
         return MediaQuery(
           data: MediaQuery.of(context).copyWith(
-            textScaleFactor: 1.0, // Optional: avoids font zoom issues
+            textScaler: TextScaler.noScaling, // Avoids font zoom issues
           ),
           // data: MediaQuery.of(context).copyWith(
           //   // it is no optimal

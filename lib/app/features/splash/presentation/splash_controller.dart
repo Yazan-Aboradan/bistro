@@ -10,9 +10,8 @@ class SplashController {
   SplashController(this.ref);
 
   Future<void> handleSplashDelay(BuildContext context,int length) async {
-    await Future.delayed( Duration(
-      seconds: length,
-    ));
+    // Navigate on next frame — no artificial delay for web
+    await Future.delayed(Duration.zero);
 
     final appStorage = ref.read(appStorageProvider);
 
