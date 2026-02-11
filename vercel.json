@@ -1,7 +1,7 @@
 {
-  "buildCommand": "flutter build web --release -O4 --pwa-strategy offline-first",
+  "buildCommand": "./build.sh",
   "outputDirectory": "build/web",
-  "installCommand": "echo 'Flutter SDK expected pre-installed or use Vercel build image with Flutter'",
+  "installCommand": "echo 'Flutter will be installed during build'",
   "headers": [
     {
       "source": "/flutter_service_worker.js",
