@@ -12,5 +12,5 @@ flutter --version
 # Get dependencies
 flutter pub get
 
-# Build web app
-flutter build web --release -O4 --pwa-strategy offline-first
+# Build web app with HTML renderer (faster load, no canvaskit)
+flutter build web --release --web-renderer html -O4 --pwa-strategy offline-first
