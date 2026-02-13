@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_32.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../.pub-cache/hosted/pub.dev/http-1.5.0/lib/http.dart","../../../lib/app/features/auth/domain/auth_apis.dart","org-dartlang-sdk:///dart-sdk/lib/convert/json.dart","../../../../../.pub-cache/hosted/pub.dev/http-1.5.0/lib/src/response.dart","../../../../../.pub-cache/hosted/pub.dev/riverpod-2.6.1/lib/src/state_controller.dart","../../../lib/app/features/auth/domain/entities/user.dart","../../../lib/l10n/app_localizations.dart","../../../lib/app/features/auth/presentation/login/providers/login_error_provider.dart","../../../../../.pub-cache/hosted/pub.dev/http-1.5.0/lib/src/base_client.dart","../../../lib/app/core/extensions/context_extensions.dart"],
+  "names": ["post","AuthApis.registerUser","Response.body","AuthApis.loginUser","LoginResponse.fromJson","ContextExtensions.localizations","AuthApis.validatePhoneNumber","User.toJson","AuthLoginErrorProvider.<anonymous function>","post.<anonymous function>","AuthLoginErrorProvider","ContextExtensions|get#localizations","_encodingForHeaders","body","fromJson","jsonDecode","jsonEncode","of","state"],
+  "mappings": "A;;;;;;;;;;AAuEIA;GAFaA,QAEbA,aAAYA,0BAC2DA,C;;;;;;;;;;;;AC1DjEC;EADKA,IACLA,kBAsBRA,C;GAvBaA,IACLA;kBADKA,cACLA;4BAAUA;;;AAKHA;AAFMA;WAAWA,QCoG5BA,QDjGmBA,0BAHFA;;IAMJA,WAA8BA,UACzCA;;AACAA,KEmDJC,MAA6BA,OA/CQD,KAASA,MAAOA;AFHjDA;;WAEAA,wBAA4BA;;AAC5BA,kBE+CJC,MAA6BA,OA/CQD,KAASA,MAAOA;AFCjDA;;;;;;;AAdJA;AAiBEA,0CAAqCA;AACrCA;;;;;;;cArBSA;;AACLA,uBADKA,C;EAyBUE,QACfA,sBAyBRA,C;GA1BuBA,UACfA;kBADeA,gBACfA;4BAAUA;;;AAKHA;AAFMA;WAAWA,QC2E5BA,QDxEmBA,+CAHFA;;;IAMJA,UACXA;AACAA,QAASA,OAAuBA,SGpCVA;AFiJxBA,GA1CAA,SDlE2CA,UAAqBA;AA2DzDA;;AACaA;AIvFdC;;AACSA;AACFA;AACDA;AACFA;AACKA;AACMA,QAAMA;AACfA;;AJoBVD;WAGAA,UAASA,OAAuBA;AKgBfE,WAA8BA;CAAiBA;AFxD1CF,OHwCkDA;AACxEA,8BAAkCA;;AAClCA,kBEoBJD,MAA6BA,OA/CQC,KAASA,MAAOA;AF4BjDA;;;;;;;AAhBJA;AAmBEA,UAASA,OAAuBA;AKUbE,WAA8BA;CAAiBA;AFxD1CF,OH8CgDA;AACxEA,6CAAmCA;AACnCA;;;;;;;cAxBmBA;;AACfA,uBADeA,C;EA4BVG,QACLA,sBAgCRA,C;GAjCaA,QACLA;kBADKA,cACLA;4BAAUA;;;AAKHA;AAFMA;WAAWA,QC+C5BA,QD5CmBA,+CAHFA;;;IAMJA,UACFA;AAATA,OAASA,gCAAqDA,SG/DxCA;AHgEtBA,OAASA,8BAAmDA,SGhEtCA;AFiJxBA,GA1CAA,SDtC0BA,UAAqBA;AACrCA,OAAJA,qBACFA;AACAA;;WAEAA;AACAA,SAASA,8BAAmDA;AKf7CD,UAA8BA;CAAiBA;AFxD1CC,OHuEgFA;AAEpGA;;YAGFA,SAASA,OAAyBA,8BAA4BA;AKpB7CD,UAA8BA;CAAiBA;AFxD1CC,OH4EgFA;AACtGA,mCAAuCA;AACvCA;;;;;;;AAvBJA;AA0BEA,SAASA,OAAyBA,8BAA4BA;AKzB3CD,UAA8BA;CAAiBA;AFxD1CC,OHiF8EA;AACtGA,qDAAgDA;AAChDA;;;;;;;cA/BSA;;AACLA,uBADKA,C;;;EIhCQC,GACTA;AADqBA,kBACrBA,mBACUA,iBACFA,cACHA,aACDA,mBACMA,cACJA,yBAAyBA,IAAOA,gBAChCA,YACbA,C;;;EEzC+CC,IAASA,WAAIA,C;;;EPqEnDC,IACRA;OQzCFA,aRyCcA,IAAcA,IAAeA,IAAgBA,GAASA,C;;;;;eOtEpEC,IAAyBA,MAAuBA,sBAAhDA,A",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "+yBCoBcgBQ;qHAKSHAEIFDa,gB;sEFAeCAEAfDa,gB;qkBFgBPIQ;yIAKoCEW;AACZHG;AANxBCS;oBAMeF2CA4DZA2N,A;yCAzDiDHAQ7CTM8B,A;AR6CPCO;kEAEdLAE3BfDa,gB;0FF+B2CDAQnDPMW,A;AR6CSNAQ7CTMS,A;ARmDONAQnDPMU,A;ARmDTCO;6gBAalCFQ;wIAIkEEW;8CACFAW;AACzDHG;AANPCS;0MAYkFLAQ5EvCM6B,A;AR4EuBCO;sFAKgBPAQjFvCMU,A;AR4EuCNAQ5EvCMS,A;ARiFuCNAQjFvCMU,A;ARiFuBCO;qKAKcPAQtFrCMU,A;AR4EuCNAQ5EvCMS,A;ARsFqCNAQtFrCMU,A;ARsFqBCO;2hBDvBtElBa;"
+  }
+}

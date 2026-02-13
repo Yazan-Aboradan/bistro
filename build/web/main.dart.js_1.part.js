@@ -27,7 +27,7 @@ s=D.ck(C.m,24,C.cf,5,w,s.ga3s(),w)
 x=D.bM(10)
 t=A.bl(d,E.y,t)
 t.toString
-return new F.nr(A.b([s,x,D.ck(C.m,14,w,5,w,t.gYP(),w),D.bM(20),new B.Pu(new B.ag2(u),v,w),D.bM(30),F.Cc(new B.ag3(d),w)],y.u),w)}}
+return new F.ns(A.b([s,x,D.ck(C.m,14,w,5,w,t.gYP(),w),D.bM(20),new B.Pu(new B.ag2(u),v,w),D.bM(30),F.Cc(new B.ag3(d),w)],y.u),w)}}
 B.Pu.prototype={
 cf(d,e){var x=this,w=x.f
 return A.ajn(A.ZK(A.b([x.Qe(w.toLowerCase()==="en","English",new B.ag4(x,e)),D.bM(20),x.Qe(w.toLowerCase()==="ar","\u0627\u0644\u0639\u0631\u0628\u064a\u0629",new B.ag5(x,e))],y.u),C.a7,C.b_,C.cG,0,null),C.j)},
@@ -66,4 +66,5 @@ w(B.ag2,A.dw)
 x(A.et,[B.ag3,B.ag4,B.ag5])})()
 A.dY(b.typeUniverse,JSON.parse('{"rN":{"V":[],"h":[]},"Pu":{"V":[],"h":[]}}'))
 var y={F:A.M("eq"),u:A.M("p<h>"),h:A.M("cM"),t:A.M("jM"),o:A.M("f4<cM>"),q:A.M("r?"),v:A.M("~")}};
-(a=>{a["RtSALj2CDK5/SDv/zKNR2p3w97w="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["87sOSIPZs6VkY/ugfdT0pGYjoV4="]=a.current})($__dart_deferred_initializers__);
+//# sourceMappingURL=main.dart.js_1.part.js.map

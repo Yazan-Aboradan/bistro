@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_24.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../fvm/versions/3.38.5/packages/flutter/lib/src/rendering/proxy_box.dart","../../../../../fvm/versions/3.38.5/packages/flutter/lib/src/semantics/semantics.dart","../../../../../fvm/versions/3.38.5/packages/flutter/lib/src/widgets/basic.dart","../../../../../fvm/versions/3.38.5/packages/flutter/lib/src/rendering/box.dart","../../../../../fvm/versions/3.38.5/packages/flutter/lib/src/rendering/object.dart"],
+  "names": ["RenderIndexedSemantics.index","RenderIndexedSemantics.describeSemanticsConfiguration","IndexedSemantics.createRenderObject","RenderBox._layoutCacheStorage","RenderObject","RenderIndexedSemantics","RenderProxyBox","IndexedSemantics.updateRenderObject","_RenderProxyBox&RenderBox&RenderObjectWithChildMixin&RenderProxyBoxMixin","_RenderProxyBox&RenderBox&RenderObjectWithChildMixin","RenderBox","","_layerHandle","_layoutCacheStorage","index","indexInParent"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;IAoxIMA,iBAFaA,GAIbA,MAIJA;IAFEA;AACAA,SACFA,C;EAGKC,IACGA;CCmxBNA,QD/xBeA;CCgyBfA,KDlxBFA,C;;EEgsHuBC,IFjtHvBA,mBEktHkCA,QCp3NxBC,WCq2DuCC;AJ6zCjDC;AA7tIOC;AE+6PHJ,QAAoCA,C;EAGnCK,MACUA,aAAQA,GACvBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "6aAqxIiBcG;8CAUNCQ;AAAgBDI;AAAhBCK;0BEksHLJmB;QAAAAAFltH6EAAA9tIjFAAAPIAAAAAAAGigD4CEAAAAFW,A,AARnCAAC+6CoCCQ,A,A,A,A,A,AA7oCjDDO,AJpxDAAAA8tIAAY,A,A;"
+  }
+}

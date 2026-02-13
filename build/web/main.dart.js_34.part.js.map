@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_34.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/app/features/auth/presentation/register/auth_register_privacy_and_policy_page.dart","../../../../../.pub-cache/hosted/pub.dev/riverpod-2.6.1/lib/src/framework/selector.dart","../../../lib/l10n/app_localizations.dart","../../../lib/app/features/auth/presentation/register/widgets/views/auth_register_error_layout_view.dart","../../../lib/app/features/auth/presentation/register/auth_register_page.dart","../../../../../.pub-cache/hosted/pub.dev/riverpod-2.6.1/lib/src/state_controller.dart","../../../lib/app/features/auth/presentation/register/routing/auth_register_routing.dart","../../../../../.pub-cache/hosted/pub.dev/riverpod-2.6.1/lib/src/framework/foundation.dart","../../../lib/app/core/extensions/context_extensions.dart"],
+  "names": ["AuthRegisterPrivacyAndPolicyPage","AuthRegisterPrivacyAndPolicyPage.build","ProviderListenable.select","ContextExtensions.localizations","AuthRegisterPrivacyAndPolicyPage.build.<anonymous function>","","ContextExtensions|get#localizations","RegisterRouting|registerToLogin","of","select","state"],
+  "mappings": "A;0DAoBQA;2BAA6CA,C;;;;;;;;;;;;;;;;;EAG5CC,MACmBA,8BAAVA,cACQA,KAAUA,OAAyBA,2BACvCA,KCEpBC,WDAUD,YCAVC;;AC0CuBC,UAA8BA;CAAiBA;AFpChEF,QAGmBA,OAEMA,QAJTA,MAA8CA;AAM9DA;AE6BiBE,UAA8BA;CAAiBA;;AFrC1DF,WASNA,MALmBA,aAMWA;AAK9BA,WAA8BA,aAC5BA,SGvCFA;AH4CAA;AACAA,KAAkBA,aAChBA,cACYA,KACRA,OACmBA;KEWRE,UAA8BA;CAAiBA;AFPtDF,aACRA,KACaA,iBAsBiBA,eAvDpCA,OIjBIA,aJ6ENA,C;;;EAhEUG,IAAWA,QAAMA,EAASA,C;;;EAqCfA,GACHA;kBADGA,cACHA;2BACSA;AAAMA;AACDA;GAMpBA;AAASA,SAA+BA;;AAAxCA,YAAkDA;AAElCA;sBAAiBA,uBAPbA,IACFA,IACKA,IAEAA,IADHA,eAIJA;;AAChBA,YAAkDA;;GAIhDA;MADAA,OAASA,OAAyBA,oBAAkBA,SKlEtCA;ACRnBA,0BN6EKA,SAASA,OAAyBA,oBAAkBA;AEb3CD,UAA8BA;CAAiBA;AGxD1CC,OLqE8EA,SAG/FA;AApBOA,uBAoBPA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "2eA2BMSAOoMKJW,A;YPpMLIAOoMKJkC,A;AP5LaCAQ1BiCE2B,A;wDRkCjCFAQlCiCEU,A;AR0BjCFAQ1BiCEO,A;ARkCjCFAQlCiCEgB,A;8ERyC/CHmB;mGAqCgBCAQ9E+BEU,A;AR0BjCFAQ1BiCEO,A;AR8E/BFAQ9E+BEU,A;yDRuB9CHa;2dAgDmEKW;AACtDH0B;6CAEsEDAQ1ErCE6B,A;AR0EqBEO;"
+  }
+}

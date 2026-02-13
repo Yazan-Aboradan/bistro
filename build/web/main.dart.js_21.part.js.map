@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_21.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/app/features/auth/presentation/register/widgets/views/auth_register_error_layout_view.dart","../../../../../fvm/versions/3.38.5/packages/flutter/lib/src/widgets/basic.dart","../../../../../fvm/versions/3.38.5/packages/flutter/lib/src/painting/edge_insets.dart"],
+  "names": ["RegisterErrorLayoutView.build","","only"],
+  "mappings": "A;;;;;;;;;;;CAaSA,IACLA;OAAOA,cAEKA,KCmrERA,SCpyDAA,kBF3YSA,MAESA,wBAKZA,IAGNA,KACSA,MATSA,iBAURA,gBAjB2BA,kBAyB3CA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "yTAkBQCS;AACuBCkB;"
+  }
+}

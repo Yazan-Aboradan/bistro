@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_40.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/app/features/main/main_wifi_page.dart","../../../../../.pub-cache/hosted/pub.dev/url_launcher-6.3.2/lib/src/type_conversion.dart","../../../../../.pub-cache/hosted/pub.dev/url_launcher-6.3.2/lib/src/url_launcher_uri.dart","../../../../../.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.3.2/lib/src/url_launcher_platform.dart","../../../lib/l10n/app_localizations.dart","org-dartlang-sdk:///dart-sdk/lib/_internal/js_runtime/lib/js_string.dart","../../../../../fvm/versions/3.38.5/packages/flutter/lib/src/widgets/media_query.dart","org-dartlang-sdk:///lib/ui/geometry.dart","../../../../../.pub-cache/hosted/pub.dev/url_launcher-6.3.2/lib/src/types.dart","../../../lib/app/core/extensions/context_extensions.dart"],
+  "names": ["MainWifiPage","convertLaunchMode","launchUrl","canLaunchUrl","MainWifiPage.build","ContextExtensions.localizations","MediaQuery.of","LaunchMode._enumToString","MainWifiPage.build.<anonymous function>","MainWifiPage.build.<anonymous function>.openLink","ContextExtensions|get#localizations","_of","convertWebViewConfiguration","instance","of","toUpperCase","width"],
+  "mappings": "A;0DAYQA;2BAEJA,C;;;;;;;;GCgBgBC,uBAGdA,QAA2BA,GAUjCA;OARMA,QAA2BA,GAQjCA;OANMA,QAA2BA,GAMjCA;OAJMA,QAA2BA,IAIjCA;OAFMA,QAA2BA,GAEjCA,E;GCLaC,MAOXA;mBAPWA,cAOXA;gCAAwBA,UACGA,IACjBA,uBAAyBA;;KACjCA,UAAoBA;ACjBqBA,UDoBPA,GAClCA,gBAEQA,yBDvCQA;ACoClBA;;OASFA;AAfEA,wBAeFA,C;GAgBaC,IACXA;mBADWA,cACXA;wBC9C2CA,UD8CPA,GAAUA;AAA9CA;;OACFA;AADEA,wBACFA,C;;;;;;;;;CF7DSC,IAOSA,wDAGNA,iBI2CaC,QAA8BA;CAAiBA;AJzC9BD;AAD9BA,eAESA,UAGYA,2BAFMA,4BK+I5BA;AL1ICA;AMwsCcE,eAAgDA;AFtqCjDD,UAA8BA;AJpD5CD,CIoD6DC;AJpDpED,gBAEQA,KACGA,OAEKA,aAcRA,OAJqBA,MAURA,cAHiBA,SKsI/BA,eLpIwBA,MAJSA,EO0DtBA,mBP1EyBA,cAuC7CA,C;;CQlDGG,8B;;;;;ERgCoBC,GACYA,YAUrBA,IACDA,C;;;EAXCC,GACQA;kBADRA,cACQA;wBAAaA;AACAA;AACfA;WAAMA,mBAANA;;AAAJA;OACEA;WAAMA,SAAmCA,eAAzCA;OADFA;;OAGEA;WAAMA,SAFmCA,eAEzCA;cAEJA;AAPQA,uBAORA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "qtBEmD6BaU;4CAIDDY;6KAsBCCU;mPFhDDHASpB6BIyB,A;0FToBfCmB;WASVDAMisCrBHkB,A;AN/rCiBDAS/B6BIU,A;AToB7BJASpB6BIM,A;CT+B7BJAS/B6BIU,A;6ET+BfCe;QAFOCmB;"
+  }
+}

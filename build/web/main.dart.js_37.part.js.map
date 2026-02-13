@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_37.part.js",
+  "sourceRoot": "",
+  "sources": ["org-dartlang-sdk:///dart-sdk/lib/core/date_time.dart"],
+  "names": ["DateTime.tryParse"],
+  "mappings": "A;;GAoYmBA,IAEfA;IACSA;AAAPA,QAIJA,UAHIA,SAFFA,SAGEA,WAEJA;KALEA,QAKFA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_18.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../.pub-cache/hosted/pub.dev/flutter_hooks-0.21.2/lib/src/framework.dart"],
+  "names": ["HookState.hook","HookState.initHook","HookState.dispose","HookState.didUpdateHook","HookState.setState"],
+  "mappings": "A;;;;;;GAkPQA,aAAQA;CAAKA;AAALA,QAAMA,C;EAKfC,GAAYA,C;CAIZC,GAAWA,C;EAUXC,IAA0BA,C;EA8C1BC,IACDA;AAAFA;MACAA;CAAQA;MAGVA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": ""
+  }
+}

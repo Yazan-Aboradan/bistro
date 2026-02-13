@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_5.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/app/features/auth/presentation/register/widgets/views/auth_register_button_view.dart","../../../lib/app/features/auth/presentation/register/auth_register_page.dart","../../../../../.pub-cache/hosted/pub.dev/flutter_riverpod-2.6.1/lib/src/consumer.dart","../../../../../.pub-cache/hosted/pub.dev/go_router-16.0.0/lib/src/router.dart","../../../../../.pub-cache/hosted/pub.dev/go_router-16.0.0/lib/src/misc/extensions.dart","../../../../../.pub-cache/hosted/pub.dev/riverpod-2.6.1/lib/src/framework/selector.dart","../../../lib/l10n/app_localizations.dart","../../../../../.pub-cache/hosted/pub.dev/riverpod-2.6.1/lib/src/framework/foundation.dart","../../../lib/app/core/extensions/context_extensions.dart"],
+  "names": ["AuthRegisterButtonView","AuthRegisterPage.build","AuthRegisterButtonView.build","Consumer.build","AuthRegisterPage.build.<anonymous function>","GoRouterHelper.pop","AuthRegisterButtonView.build.<anonymous function>","ProviderListenable.select","ContextExtensions.localizations","AuthRegisterButtonView.build.<anonymous function>.<anonymous function>","","ContextExtensions|get#localizations","GoRouterHelper|pop","of","select"],
+  "mappings": "A;;8BAcQA;iCAIJA,C;;;;;;;;;;;;;;;;;;;;CCGKC,IAMUA;AALfA,OAAOA,QACsBA,GACrBA,MACGA,OAQKA,KACRA,cAEYA,KACRA,OAAuCA,GAAkBA,6BAX1BA,SAgBnCA,SACAA,WAGYA,IAD6BA,OAnBNA,iCA0B7CA,C;AC2TMC;EF1VCA,MAILA,gBACWA,qBA0DbA,C;AEoSSC;EADFA,MACLA,WAAOA,eACTA,C;;;EDpVuEC,GEsezCC,SFredD,IGmC8CA,QHlC/CA,C;;;EDbFE,QAMLA;AADgBA,QKHxBC,WLKUD,YKLVC,4BLUQD,OAAOA,OACYA,GA2CtBA;AApCcA,YAEQA;MAGbA;;YMmBSE,UAA8BA;CAAiBA;ANnB1BF,WARtCA,OAAOA,OAJcA,MAaRA,2BA8BdA,C;;;;;EAjDKG,IAAWA,QAAMA,EAASA,C;;;EAmBjBA,GACTA,aA2BDA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "uvBAyBWUmB;0JCaeEAGmC6BCS,A;IHnC7BDQ;sEDNhBEAO+LCJW,A;YP/LDIAO+LCJ4B,A;6GP5KqBCAQ1CyBE6B,A;"
+  }
+}
