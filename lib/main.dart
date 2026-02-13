@@ -8,10 +8,6 @@ import 'app.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   setUrlStrategy(const HashUrlStrategy());
-  await AppStorage.getInstance().init();
-  runApp(
-    const ProviderScope(
-      child: App(),
-    ),
-  );
+  // storage init moved to startupProvider to unblock main thread fast start
+  runApp(const ProviderScope(child: App()));
 }

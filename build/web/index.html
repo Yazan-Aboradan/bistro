@@ -19,6 +19,11 @@
     <link rel="manifest" href="manifest.json" />
     <title>Bistro App</title>
 
+    <!-- Preload critical assets for faster rendering -->
+    <link rel="preload" href="assets/images/Bistro_Logo.svg" as="image" />
+    <link rel="preload" href="assets/images/background_0_mobile.png" as="image" />
+    <link rel="preload" href="assets/images/background_0_ipad.png" as="image" />
+
     <!-- Native splash: visible INSTANTLY before Flutter engine loads -->
     <style>
       html, body {
