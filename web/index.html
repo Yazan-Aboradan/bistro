@@ -19,6 +19,13 @@
     <link rel="manifest" href="manifest.json" />
     <title>Bistro App</title>
 
+    <!-- Suppress Chrome/Edge/Android "Install app" prompts (PWA install UI) -->
+    <script>
+      window.addEventListener("beforeinstallprompt", function (e) {
+        e.preventDefault();
+      });
+    </script>
+
     <!-- Preload critical assets for faster rendering -->
     <link rel="preload" href="assets/assets/images/Bistro_Logo.svg" as="image" />
     <link rel="preload" href="assets/assets/images/background_0_mobile.png" as="image" />
